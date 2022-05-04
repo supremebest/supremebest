@@ -1,7 +1,7 @@
-### 👋 Olá criaturas 
-### 🤠 Meu nome e Felipe, sou alguem que gosta de programação, entusiasta por Linux por ser um software livre <3
+### 👋 Olá criaturas.
+### 🤠 Meu nome é Felipe, sou alguém que gosta de programação, entusiasta de softwares livres.
 ### 📫 Qualquer duvida me contate pelo Discord: supremegodikkj#5001
-### 👯 Caso queira contribuir em projetos livres estou aceitando opiniões.
+### 👯 Caso queira contribuir em projetos livres, aceito opiniões.
 ### ​✍️​ Estudando Linux
 
 <div align="center">
